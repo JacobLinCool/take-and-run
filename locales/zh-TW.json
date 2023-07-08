@@ -1,0 +1,6 @@
+{
+	"login": "登入",
+	"retry": "重試",
+	"welcome": "歡迎使用 SvelteKit+",
+	"with-tech": "SvelteKit 加上 TailwindCSS、DaisyUI 以及 I18n！"
+}
